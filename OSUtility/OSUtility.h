@@ -15,6 +15,7 @@ FOUNDATION_EXPORT const unsigned char OSUtilityVersionString[];
 
 // In this header, you should import all the public headers of your framework
 // using statements like #import <OSUtility/PublicHeader.h>
+#import <OSUtility/OSHardware.h>
 #import <OSUtility/OSLogger.h>
 #import <OSUtility/OSMemory.h>
 

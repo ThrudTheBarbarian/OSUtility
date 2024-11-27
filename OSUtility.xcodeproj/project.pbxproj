@@ -29,6 +29,7 @@
 		F4EF9F8F2CF6E4E800A95FAC /* Exceptions for "OSUtility" folder in "OSUtility" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			publicHeaders = (
+				OSHardware.h,
 				OSLogger.h,
 				OSMemory.h,
 				OSUtility.h,
